@@ -47,7 +47,7 @@ I'm **Menna Allah Saed**, a Flutter Developer based in **Alexandria, Egypt**. I 
 
 ### 🚀 Featured Projects
 
-<h4>🌿 <a href="https://github.com/mentae55/Agriguard">AgriGuard</a> — <i>Graduation Project (IoT & AI)</i></h4>
+<h4>🌿 <a href="https://github.com/MennaSaed55/Agriguard">AgriGuard</a> — <i>Graduation Project (IoT & AI)</i></h4>
 <blockquote>An IoT-enabled precision agriculture mobile app diagnosing plant diseases, bridging the gap between hardware sensors and deep learning backends.</blockquote>
 
 * **Architecture:** Formulated using **Clean Architecture (Feature-First approach)**.
@@ -58,7 +58,7 @@ I'm **Menna Allah Saed**, a Flutter Developer based in **Alexandria, Egypt**. I 
 
 <br />
 
-<h4>☁️ <a href="https://github.com/mentae55/OBJEX">OBJEX</a> — <i>Tayel AI Labs</i></h4>
+<h4>☁️ <a href="https://github.com/MennaSaed55/OBJEX">OBJEX</a> — <i>Tayel AI Labs</i></h4>
 <blockquote>Cloud management mobile client for S3-compatible object storage systems.</blockquote>
 
 * Implemented the end-to-end integration between the Flutter frontend, a **.NET backend**, and storage models.
@@ -68,7 +68,7 @@ I'm **Menna Allah Saed**, a Flutter Developer based in **Alexandria, Egypt**. I 
 
 <br />
 
-<h4>💬 <a href="https://github.com/mentae55/ChatApp">Chat App</a> — <i>National Telecommunication Institute (NTI)</i></h4>
+<h4>💬 <a href="https://github.com/MennaSaed55/ChatApp">Chat App</a> — <i>National Telecommunication Institute (NTI)</i></h4>
 <blockquote>A real-time chatting mobile application focusing on high performance and clean navigation[cite: 1].</blockquote>
 
 * Integrated **Firebase Authentication & Firestore** for secure data synchronization.
@@ -77,7 +77,7 @@ I'm **Menna Allah Saed**, a Flutter Developer based in **Alexandria, Egypt**. I 
 
 <br />
 
-<h4>📍 <a href="https://github.com/mentae55/TaL3a">TaL3a</a> — <i>Digital Egypt Pioneers Initiative (DEPI)</i></h4>
+<h4>📍 <a href="https://github.com/MennaSaed55/TaL3a">TaL3a</a> — <i>Digital Egypt Pioneers Initiative (DEPI)</i></h4>
 <blockquote>A location-based services mobile app featuring full Arabic localization[cite: 1].</blockquote>
 
 * Developed smooth onboarding flows, multi-category browsing, real-time search, promotions, and profile management.
@@ -117,10 +117,10 @@ I'm **Menna Allah Saed**, a Flutter Developer based in **Alexandria, Egypt**. I 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mentae55&theme=github_dark" alt="GitHub Details" height="180" /> &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MennaSaed55&theme=github_dark" alt="GitHub Details" height="180" /> &nbsp;
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mentae55&theme=github_dark" alt="GitHub Stats" height="180" /> &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mentae55&theme=github_dark" alt="Most Committed Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MennaSaed55&theme=github_dark" alt="GitHub Stats" height="180" /> &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MennaSaed55&theme=github_dark" alt="Most Committed Languages" height="180" />
 </div>
 
 ---
